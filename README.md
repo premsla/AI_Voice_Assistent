@@ -49,3 +49,15 @@ A modern, voice-powered AI assistant built with Next.js, TypeScript, and Tailwin
    ```bash
    git clone https://github.com/your-username/speech-ai-app.git
    cd speech-ai-app
+
+2.**Install dependencies**
+  ```bash
+  npm install  # or
+  yarn install
+
+2.**Install dependencies**
+  ```bash
+  npm run dev  # or
+  yarn dev
+  Open your browser
+  Navigate to http://localhost:3000
